@@ -3,7 +3,6 @@
 
 <img width="1920" height="1030" alt="screenshot" src="https://github.com/user-attachments/assets/e6822cbb-76bc-417f-981b-4f8945f0b68b" />
 
-
 Использует консольную программу <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/handle"> Handle </a>.
 
 ### Параметры командной строки
